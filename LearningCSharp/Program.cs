@@ -6,4 +6,6 @@
 // LearningCSharp.Loops.ForLoop.Run();
 // LearningCSharp.Loops.ForEachLoop.Run();
 // LearningCSharp.Loops.WhileLoop.Run();
-LearningCSharp.Methods.Methods.Run();
+// LearningCSharp.Methods.Methods.Run();
+// LearningCSharp.OOP.Program.Run();
+LearningCSharp.EventsAndDelages.Delagets.Run();
